@@ -1,0 +1,24 @@
+# DOM manipulation and traversal
+#### *Epicodus Practice lesson #38 (Week 2) on 1/12/2021*
+***By Daniel Adeyemi***
+
+## *Description:*
+This project demonstrates basic concepts of DOM manipulation and traversal by responding on user input.
+
+## *Setup instructions:*
+Clone repository by using this [URL](https://github.com/DanielAdeyemi/Epicodus_1_12_practice4) and run the ***index.html*** file in your terminal
+
+## *Tecnologies used:*
+* HTML
+* CSS
+* Java Script
+* JQuery
+* Bootstrap *v5.0.0 beta*
+
+## *Known bugs:*
+This project has basic style and was used only for practice purporse
+
+## *License and copyright:*
+
+> ***© Daniel Adeyemi, 2021***   
+> *Licensed under MIT license*
